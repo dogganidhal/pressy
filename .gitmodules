@@ -1,0 +1,9 @@
+[submodule "pressy-core"]
+	path = pressy-core
+	url = https://github.com/dogganidhal/pressy-core.git
+[submodule "pressy-admin"]
+	path = pressy-admin
+	url = https://github.com/dogganidhal/pressy-admin.git
+[submodule "pressy-client"]
+	path = pressy-client
+	url = https://github.com/dogganidhal/pressy-client.git
